@@ -43,7 +43,7 @@ class _Invest extends State<Invest> {
                   child: Text("Invest Avon"),
                   onPressed: Avon,
                 ),
-                new Text('$_n', style: new TextStyle(fontSize: 60.0)),
+                new Text('$_n', style: new TextStyle(fontSize: 50.0)),
                 new RaisedButton(
                   child: Text("Invest Byul"),
                   onPressed: Byul,
